@@ -1,0 +1,25 @@
+import{s as R,f as Z,n as G}from"../chunks/scheduler.V7bLW0bx.js";import{S as U,i as k,s as u,g as o,y as B,f as i,c as a,h as n,z as r,k as c,a as l}from"../chunks/index.sw8wx6lB.js";function O(F){let _,p,j="How to deploy a SvelteKit website to GitHub pages",b,d,I=`Dolore ipsum esse voluptate. Culpa officia minim duis enim Lorem laboris sunt exercitation commodo
+	non ullamco. Aute eiusmod ullamco qui commodo aliqua cillum non voluptate sunt culpa. Cillum
+	pariatur mollit elit et aute quis dolor ipsum cillum ea nisi ea elit. Qui esse incididunt duis
+	ipsum nulla commodo et ea enim non anim nisi eiusmod cillum et. Mollit ipsum excepteur sint
+	consectetur duis ipsum aute.`,L,s,E,g,x,S="Lorem, ipsum dolor sit amet consectetur adipisicing elit",w,v,K=`Dolor eu occaecat voluptate nisi et eiusmod elit. Ut duis anim veniam labore sint est nisi labore
+	tempor elit in Lorem. Veniam consectetur dolore irure amet nulla veniam quis. Ex duis nulla anim
+	labore qui pariatur pariatur ipsum minim consectetur nisi in. Quis anim aliqua cillum deserunt eu
+	nisi elit eiusmod magna qui anim minim laboris est ad. Veniam in occaecat enim eiusmod eiusmod
+	cupidatat commodo eiusmod mollit consequat reprehenderit exercitation dolore ex veniam. Dolor
+	officia nisi dolore dolor velit excepteur tempor labore aute ad enim. Quis eiusmod sit nulla do
+	tempor eu irure irure consequat voluptate laborum irure reprehenderit.`,y,q,Q=`Laborum culpa culpa reprehenderit Lorem consequat Lorem culpa laborum occaecat non Lorem commodo
+	ullamco ex labore. In eu voluptate aliquip nisi eu. Magna eu exercitation laborum eu veniam id
+	ullamco. Dolor incididunt aliqua exercitation aliquip officia sit. Exercitation et mollit
+	exercitation in irure culpa. Fugiat veniam cupidatat qui nostrud non sit adipisicing est
+	consectetur exercitation Lorem est aliqua mollit commodo. Culpa sunt ad cupidatat adipisicing qui
+	aliquip dolor esse pariatur qui id cillum laborum ullamco.`,H,h,V="Lorem ipsum dolor sit amet consectetur adipisicing elit",P,m,z,D,f,A=`Qui enim labore duis nostrud ea labore eiusmod esse. Mollit fugiat aliquip velit culpa elit velit
+	et reprehenderit irure sit quis anim ex Lorem. Culpa do magna officia tempor proident labore
+	occaecat tempor eu deserunt cillum enim pariatur. Do occaecat voluptate minim in quis voluptate
+	aute magna. Dolore occaecat labore dolore magna aliqua. Cillum dolore quis nulla exercitation
+	mollit ut. Lorem sunt aliquip ipsum quis sint.`,M,C,T=`Magna reprehenderit aliquip consectetur quis incididunt duis occaecat sint do aliquip velit
+	proident consectetur. Exercitation quis exercitation aliqua occaecat voluptate voluptate qui et
+	consectetur sit laborum velit proident. Incididunt proident duis ex ad culpa reprehenderit
+	incididunt. Enim non et duis irure in tempor sit incididunt ad minim et anim excepteur dolor elit.
+	Proident consectetur velit pariatur deserunt amet ullamco ipsum eiusmod dolore qui. Amet
+	reprehenderit voluptate est. In aliquip dolore irure cupidatat occaecat.`;return{c(){_=u(),p=o("h1"),p.textContent=j,b=u(),d=o("p"),d.textContent=I,L=u(),s=o("img"),g=u(),x=o("h2"),x.textContent=S,w=u(),v=o("p"),v.textContent=K,y=u(),q=o("p"),q.textContent=Q,H=u(),h=o("h3"),h.textContent=V,P=u(),m=o("img"),D=u(),f=o("p"),f.textContent=A,M=u(),C=o("p"),C.textContent=T,this.h()},l(t){B("svelte-132nxez",document.head).forEach(i),_=a(t),p=n(t,"H1",{"data-svelte-h":!0}),r(p)!=="svelte-1pdxxbp"&&(p.textContent=j),b=a(t),d=n(t,"P",{"data-svelte-h":!0}),r(d)!=="svelte-t4x61m"&&(d.textContent=I),L=a(t),s=n(t,"IMG",{src:!0,alt:!0,height:!0,width:!0}),g=a(t),x=n(t,"H2",{"data-svelte-h":!0}),r(x)!=="svelte-1ul9b0z"&&(x.textContent=S),w=a(t),v=n(t,"P",{"data-svelte-h":!0}),r(v)!=="svelte-1at4w4t"&&(v.textContent=K),y=a(t),q=n(t,"P",{"data-svelte-h":!0}),r(q)!=="svelte-nycsns"&&(q.textContent=Q),H=a(t),h=n(t,"H3",{"data-svelte-h":!0}),r(h)!=="svelte-17i2qef"&&(h.textContent=V),P=a(t),m=n(t,"IMG",{src:!0,alt:!0,height:!0,width:!0}),D=a(t),f=n(t,"P",{"data-svelte-h":!0}),r(f)!=="svelte-y7qnle"&&(f.textContent=A),M=a(t),C=n(t,"P",{"data-svelte-h":!0}),r(C)!=="svelte-17ro842"&&(C.textContent=T),this.h()},h(){document.title="How to deploy a SvelteKit website to GitHub pages",Z(s.src,E="https://fastly.picsum.photos/id/251/800/400.jpg?hmac=y13CO5nUuKwgLH412DjCCVGCu0MoeZSX5F3wcwKnvHM")||c(s,"src",E),c(s,"alt","Random mountains from picsum.photos"),c(s,"height","400"),c(s,"width","800"),Z(m.src,z="https://fastly.picsum.photos/id/943/800/400.jpg?hmac=foGlp-ycjpBjdGRTPlPTZjT8e70-50L_Zeu0AiHqVnI")||c(m,"src",z),c(m,"alt","Dear in the forest from picsum.photos"),c(m,"height","400"),c(m,"width","800")},m(t,e){l(t,_,e),l(t,p,e),l(t,b,e),l(t,d,e),l(t,L,e),l(t,s,e),l(t,g,e),l(t,x,e),l(t,w,e),l(t,v,e),l(t,y,e),l(t,q,e),l(t,H,e),l(t,h,e),l(t,P,e),l(t,m,e),l(t,D,e),l(t,f,e),l(t,M,e),l(t,C,e)},p:G,i:G,o:G,d(t){t&&(i(_),i(p),i(b),i(d),i(L),i(s),i(g),i(x),i(w),i(v),i(y),i(q),i(H),i(h),i(P),i(m),i(D),i(f),i(M),i(C))}}}class N extends U{constructor(_){super(),k(this,_,null,O,R,{})}}export{N as component};
